@@ -3,8 +3,8 @@
 # ----------------------- #
 
 url: http://chenHongbin.github.io
-title: 陈宏彬
-subtitle: 陈宏彬
+title: Mi憨人
+subtitle: 既往不念，未来不迎，当下不杂
 author: 陈宏彬
 simple_search: https://www.google.com/search
 description:
@@ -69,8 +69,8 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-#twitter_user:
-#twitter_tweet_button: true
+# twitter_user:
+# twitter_tweet_button: true
 
 # Google +1
 google_plus_one: false
@@ -97,4 +97,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+# facebook_like: false
