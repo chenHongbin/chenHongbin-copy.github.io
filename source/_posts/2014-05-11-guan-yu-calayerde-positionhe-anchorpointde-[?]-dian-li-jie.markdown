@@ -111,23 +111,23 @@ anchorPoint、position和frame之间的关系
     
 其输出为：
 
-	 testLayer frame = {{10, 10}, {100, 100}}
-     testLayer bounds = {{0, 0}, {100, 100}}
-     testLayer position = {60, 60}
-     testLayer anchorPoint = {0.5, 0.5}
+	testLayer frame = ((10, 10), (100, 100))
+	testLayer bounds = ((0, 0), (100, 100))
+    testLayer position = (60, 60)
+    testLayer anchorPoint = (0.5, 0.5)
  
-     Change Position(20, 20)
-     testLayer frame = {{-30, -30}, {100, 100}}
-     testLayer bounds = {{0, 0}, {100, 100}}
-     testLayer position = {20, 20}
-     testLayer anchorPoint = {0.5, 0.5}
+    Change Position(20, 20)
+    testLayer frame = ((-30, -30), (100, 100))
+    testLayer bounds = ((0, 0), (100, 100))
+    testLayer position = (20, 20}
+    testLayer anchorPoint = (0.5, 0.5)
 
-     Change anchorPoint(0.4, 0.4)
-     testLayer frame = {{-20, -20}, {100, 100}}
-     testLayer bounds = {{0, 0}, {100, 100}}
-	 testLayer position = {20, 20}
-	 testLayer anchorPoint = {0.40000001, 0.40000001}
-	 
+    Change anchorPoint(0.4, 0.4)
+    testLayer frame = ((-20, -20), (100, 100))
+    testLayer bounds = ((0, 0), (100, 100))
+    testLayer position = (20, 20)
+    testLayer anchorPoint = (0.40000001, 0.40000001)
+		 
 从中我们可以验证我们之前的公式是正确的，即frame的origin是由position和anchorPoints共同决定的，而frame的size则是由bounds决定的。
 
 另外一个问题就是，单方面修改layer的position位置或者是anchorPoint，其两者互不影响，受影响的只会是frame.origin，也就是layer坐标原点相对superLayer会有所改变。
