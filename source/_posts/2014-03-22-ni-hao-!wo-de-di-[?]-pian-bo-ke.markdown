@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "你好！我的第一篇博客"
+title: 
 date: 2014-03-22 12:13:48 +0800
 comments: true
 categories: 
