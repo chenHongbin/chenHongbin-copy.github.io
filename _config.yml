@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://chenHongbin.github.io
-title: Mi憨人
+title: Robert_Chen
 subtitle: 既往不念，未来不迎，当下不杂
 author: 陈宏彬
 simple_search: https://www.google.com/search
@@ -82,8 +82,8 @@ googleplus_user:
 googleplus_hidden: false
 
 # Pinboard
-pinboard_user:
-pinboard_count: 3
+# pinboard_user:
+# pinboard_count: 3
 
 # Delicious
 delicious_user:
