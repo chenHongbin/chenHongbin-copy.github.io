@@ -39,7 +39,10 @@ categories: 周报
 
 1、[Software engineers should write](http://www.shubhro.com/2014/12/27/software-engineers-should-write/)
 
-    Software engineers should write because it promotes many of the same skills required in programming. A core skill in both disciplines is an ability to think clearly. The best software engineers are great writers because their prose is as logical and elegant as their code.
+    Software engineers should write because it promotes many of the same skills
+    required in programming. A core skill in both disciplines is an ability to 
+    think clearly. The best software engineers are great writers because their 
+    prose is as logical and elegant as their code.
     
 这是一个老生常谈的问题，其实在网络上可以搜到一堆鼓励程序员写博客的文章，以及一堆列举程序员写博客的好处的文章。所以，如果你是程序员也不用看这篇文章，直接开始写博客吧！
 
@@ -55,17 +58,23 @@ categories: 周报
 
 4、[Why Crappy Developers Are More Productive](https://medium.com/@sachagreif/why-crappy-developers-are-more-productive-5f24a2040c54)
 
-    I’ll deal with it if there’s no way around it, but that doesn’t mean I have to enjoy it. So the gratification happens when I finally ship a new feature, not while I’m building it.
+    I’ll deal with it if there’s no way around it, but that doesn’t mean I have
+    to enjoy it. So the gratification happens when I finally ship a new feature, 
+    not while I’m building it.
 
 承接上面那篇文章，这篇文章解释了为什么那些看是蹩脚的程序员却更有效率呢？因为他们追求的是通过编程解决问题，重点是在解决问题上，而不是编程这件事上，编程只是他们解决问题的手段，如果可以绕过编程解决问题，他们就不会选择编程。这就是上篇文章里说到的程序师和架构师的区别。
 
 5、[编程的艺术](http://www.techug.com/the-art-of-programming)
 
-    我认为编程就是艺术的一种形式，你知道：不是所有的艺术家都是一样的。像很多画家一样，很多程序员也只是在复制东西，从来没有带来原创的东西。
+    我认为编程就是艺术的一种形式，你知道：不是所有的艺术家都是一样的。像很多画家一样，很多程序员
+    也只是在复制东西，从来没有带来原创的东西。
 
-    真正的艺术家是不同的。TA 们都能去创造新东西，TA 们为未来带来新的标准，TA 们把现在的环境「变」得更好，TA 们不恐惧危机。「复制者」会尝试说「为什么不不用 X 或者 Y 来创造新东西呢？」让 TA 们停下。
+    真正的艺术家是不同的。TA 们都能去创造新东西，TA 们为未来带来新的标准，TA 们把现在的环境
+    「变」得更好，TA 们不恐惧危机。「复制者」会尝试说「为什么不不用 X 或者 Y 来创造新东西呢？」
+    让 TA 们停下。
 
-    因为 TA 们不会满意用 X 或 Y，所以 TA 们要成为学习工具来自我实验；因为 TA 们想要创造，所以 TA 们在代码中表达自己；TA 们只想无拘束的去做，所以即使不是大事儿也可以改变世界。
+    因为 TA 们不会满意用 X 或 Y，所以 TA 们要成为学习工具来自我实验；因为 TA 们想要创造，所以 
+    TA 们在代码中表达自己；TA 们只想无拘束的去做，所以即使不是大事儿也可以改变世界。
 
 6、[Google Play应用数量首次超越App Store](http://www.36kr.com/p/218796.html)
 
@@ -73,19 +82,26 @@ categories: 周报
 
 7、[Battery life: Apple’s solving for x](http://sixcolors.com/post/2015/01/battery-life-apples-solving-for-x/)
 
-    “So when you’re anticipating the next model of iPhone or iPad, and wondering if it’ll show markedly improved battery life, keep this in mind: So far Apple has behaved as if the battery life of the iPad and the iPhone are perfectly fine as is, and that it would prefer to create a thinner and lighter model to one that puts the makers of external battery packs out of business.”
+    “So when you’re anticipating the next model of iPhone or iPad, and wondering 
+    if it’ll show markedly improved battery life, keep this in mind: So far Apple 
+    has behaved as if the battery life of the iPad and the iPhone are perfectly 
+    fine as is, and that it would prefer to create a thinner and lighter model to 
+    one that puts the makers of external battery packs out of business.”
     
 从文章中的几张图可以发现，iPad 系列的电池续航一直都很稳定，都是10个小时的续航时间，而 iPhone 似乎就没有那么稳定了。当然不可否认的是目前电池容量的问题可能受限于材料上。
 
 8、[Your Most Important Skill: Empathy](https://medium.com/@chadfowler/your-most-important-skill-empathy-a75ffe5e0877)
 
-    Empathy is the most important skill you can practice. It will lead to greater success personally and professionally and will allow you to become happier the more you practice.
+    Empathy is the most important skill you can practice. It will lead to greater 
+    success personally and professionally and will allow you to become happier 
+    the more you practice.
     
 在产品设计中最经常被提到的一个词就是“同理心”，这篇文章介绍了几个提供“同理心”的方法。慎言多听，知己知彼。
 
 9、[达克效应](http://zh.wikipedia.org/wiki/达克效应)
 
-    达克效应（英语：D-K effect），全称为邓宁-克鲁格效应（英语：Dunning–Kruger effect），是一种认知偏差现象，未经训练的个体会感到一种虚幻的自我优越感，错误地认为自己比大多数人都优秀。
+    达克效应（英语：D-K effect），全称为邓宁-克鲁格效应（英语：Dunning–Kruger effect），是
+    一种认知偏差现象，未经训练的个体会感到一种虚幻的自我优越感，错误地认为自己比大多数人都优秀。
     
 我们或多或少都应该有过达克效应，对于我们未知的领域还是应该保持敬畏心与尊重感。
 
